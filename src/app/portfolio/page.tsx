@@ -166,7 +166,7 @@ export default function Portfolio() {
                   <div className="text-yellow-500">★★★★★</div>
                 </div>
               </div>
-              <p className="text-gray-600">"명함 품질이 정말 좋아요. 고급스럽고 디자인도 만족스럽습니다. 다음에도 이용할게요!"</p>
+              <p className="text-gray-600">&ldquo;명함 품질이 정말 좋아요. 고급스럽고 디자인도 만족스럽습니다. 다음에도 이용할게요!&rdquo;</p>
             </div>
             
             <div className="bg-white p-6 rounded-lg shadow-md">
@@ -179,7 +179,7 @@ export default function Portfolio() {
                   <div className="text-yellow-500">★★★★★</div>
                 </div>
               </div>
-              <p className="text-gray-600">"전단지 제작 속도가 빨라서 급할 때 정말 도움됐어요. 품질도 훌륭하고요!"</p>
+              <p className="text-gray-600">&ldquo;전단지 제작 속도가 빨라서 급할 때 정말 도움됐어요. 품질도 훌륭하고요!&rdquo;</p>
             </div>
             
             <div className="bg-white p-6 rounded-lg shadow-md">
@@ -192,7 +192,7 @@ export default function Portfolio() {
                   <div className="text-yellow-500">★★★★★</div>
                 </div>
               </div>
-              <p className="text-gray-600">"디자인부터 인쇄까지 원스톱으로 해결해주셔서 편했어요. 전문성이 느껴집니다."</p>
+              <p className="text-gray-600">&ldquo;디자인부터 인쇄까지 원스톱으로 해결해주셔서 편했어요. 전문성이 느껴집니다.&rdquo;</p>
             </div>
           </div>
         </div>
