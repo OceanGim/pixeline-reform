@@ -14,7 +14,7 @@ export default function Order() {
     budget: '',
     description: '',
     hasDesign: false,
-    designFile: null
+    designFile: null as File | null
   })
 
   const services = [
