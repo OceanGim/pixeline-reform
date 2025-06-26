@@ -316,7 +316,7 @@ export default function Order() {
           <div className="flex justify-center space-x-6">
             <div className="text-center">
               <div className="text-3xl mb-2">📞</div>
-              <p className="font-bold">02-1234-5678</p>
+              <p className="font-bold">1599-9716</p>
               <p className="text-sm text-gray-500">24시간 상담</p>
             </div>
             <div className="text-center">

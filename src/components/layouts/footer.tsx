@@ -24,9 +24,9 @@ export function Footer() {
           <div>
             <h4 className="text-white text-sm font-semibold mb-4">연락처</h4>
             <ul className="space-y-2">
-              <li className="text-gray-400">전화: 02-1234-5678</li>
+              <li className="text-gray-400">전화: 1599-9716</li>
               <li className="text-gray-400">이메일: master@pixeline.co.kr</li>
-              <li className="text-gray-400">우편번호: 1599-9716</li>
+              <li className="text-gray-400">우편번호: 05632</li>
               <li className="text-gray-400">주소: 서울시 송파구 마천로 134(오금동), 2층</li>
             </ul>
           </div>

@@ -17,7 +17,7 @@ export default function Contact() {
               <div className="text-4xl mb-4">📞</div>
               <h3 className="text-xl font-bold mb-2">전화 상담</h3>
               <p className="text-gray-600 mb-4">빠른 상담을 원하시면 전화주세요</p>
-              <p className="text-2xl font-bold text-blue-600">02-1234-5678</p>
+              <p className="text-2xl font-bold text-blue-600">1599-9716</p>
               <p className="text-sm text-gray-500 mt-2">24시간 상담 가능</p>
             </div>
 
@@ -151,7 +151,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <span className="font-semibold">우편번호:</span>
-                    <p className="text-gray-600">1599-9716</p>
+                    <p className="text-gray-600">05632</p>
                   </div>
                   <div>
                     <span className="font-semibold">대중교통:</span>
@@ -159,7 +159,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <span className="font-semibold">주차:</span>
-                    <p className="text-gray-600">건물 앞 무료 주차 가능</p>
+                    <p className="text-gray-600">주차 공간 협소 - 대중교통 이용 권장</p>
                   </div>
                 </div>
               </div>
